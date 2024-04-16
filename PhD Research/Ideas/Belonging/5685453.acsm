@@ -1,0 +1,39 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>5685453_476430569</transaction>
+  <purchase>2023-09-22T15:06:28+00:00</purchase>
+  <expiration>2023-09-22T21:06:28+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:e0000000-0000-0000-0000-000005685453</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Toward a Psychology of Being</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maslow, Abraham H.;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Start Publishing LLC</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">5685453</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:e0000000-0000-0000-0000-000005685453</resource>
+      <permissions>
+        <display>
+          <duration>172799</duration>
+        </display>
+        <excerpt>
+          <duration>172799</duration>
+          <count initial="9" max="9" incrementInterval="19199"/>
+        </excerpt>
+        <print>
+          <duration>172799</duration>
+          <count initial="9" max="9" incrementInterval="19199"/>
+        </print>
+        <play>
+          <duration>172799</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>KOczVtOP+rkuZFv4EbTlA81jpW0=</hmac>
+</fulfillmentToken>
